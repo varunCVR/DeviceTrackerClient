@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="setup.bat" />
+    <File Path="TestBlocking.ps1" />
+    <File Path="test_config.bat" />
+  </Folder>
+  <Project Path="../DeviceTrackerConfig/DeviceTrackerConfig/DeviceTrackerConfig.csproj" Id="c847ef8a-56c1-4a76-93fe-c252e10625e8" />
+  <Project Path="DeviceTrackerClient/DeviceTrackerClient.csproj" Id="18d96881-6a22-4c35-b61f-420227fa37c9" />
+</Solution>
