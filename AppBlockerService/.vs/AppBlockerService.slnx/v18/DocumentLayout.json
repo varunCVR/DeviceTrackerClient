@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8685BCB-9A45-4BE8-A9BE-AC784CA42A14}|AppBlockerConfig\\AppBlockerConfig.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\appblockerconfig\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8685BCB-9A45-4BE8-A9BE-AC784CA42A14}|AppBlockerConfig\\AppBlockerConfig.csproj|solutionrelative:appblockerconfig\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\appblockerservice\\ftpuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|solutionrelative:appblockerservice\\ftpuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8685BCB-9A45-4BE8-A9BE-AC784CA42A14}|AppBlockerConfig\\AppBlockerConfig.csproj|c:\\users\\vr-workstation\\source\\repos\\appblockerservice\\appblockerconfig\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8685BCB-9A45-4BE8-A9BE-AC784CA42A14}|AppBlockerConfig\\AppBlockerConfig.csproj|solutionrelative:appblockerconfig\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8685BCB-9A45-4BE8-A9BE-AC784CA42A14}|AppBlockerConfig\\AppBlockerConfig.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\appblockerconfig\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8685BCB-9A45-4BE8-A9BE-AC784CA42A14}|AppBlockerConfig\\AppBlockerConfig.csproj|solutionrelative:appblockerconfig\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD91283-2101-4F51-A71D-E7B698003EDC}|SharedModels\\SharedModels.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\sharedmodels\\ftpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD91283-2101-4F51-A71D-E7B698003EDC}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\ftpconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD91283-2101-4F51-A71D-E7B698003EDC}|SharedModels\\SharedModels.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\sharedmodels\\commonpaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD91283-2101-4F51-A71D-E7B698003EDC}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\commonpaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\appblockerservice\\appblockerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|solutionrelative:appblockerservice\\appblockerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\appblockerservice\\devicehealthmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|solutionrelative:appblockerservice\\devicehealthmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\appblockerservice\\appblockerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|solutionrelative:appblockerservice\\appblockerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD91283-2101-4F51-A71D-E7B698003EDC}|SharedModels\\SharedModels.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\sharedmodels\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD91283-2101-4F51-A71D-E7B698003EDC}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD91283-2101-4F51-A71D-E7B698003EDC}|SharedModels\\SharedModels.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\sharedmodels\\devicehealthmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD91283-2101-4F51-A71D-E7B698003EDC}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\devicehealthmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8685BCB-9A45-4BE8-A9BE-AC784CA42A14}|AppBlockerConfig\\AppBlockerConfig.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\appblockerconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8685BCB-9A45-4BE8-A9BE-AC784CA42A14}|AppBlockerConfig\\AppBlockerConfig.csproj|solutionrelative:appblockerconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\appblockerservice\\installedappscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B844BED-257F-4FE7-9C91-ABAB49346CE9}|AppBlockerService\\AppBlockerService.csproj|solutionrelative:appblockerservice\\installedappscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FtpConfig.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\SharedModels\\FtpConfig.cs",
+              "RelativeDocumentMoniker": "SharedModels\\FtpConfig.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\SharedModels\\FtpConfig.cs",
+              "RelativeToolTip": "SharedModels\\FtpConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T18:05:32.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonPaths.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\SharedModels\\CommonPaths.cs",
+              "RelativeDocumentMoniker": "SharedModels\\CommonPaths.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\SharedModels\\CommonPaths.cs",
+              "RelativeToolTip": "SharedModels\\CommonPaths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:33:16.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppBlockerService.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\AppBlockerService.cs",
+              "RelativeDocumentMoniker": "AppBlockerService\\AppBlockerService.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\AppBlockerService.cs",
+              "RelativeToolTip": "AppBlockerService\\AppBlockerService.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAmwN4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:31:50.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerConfig\\MainForm.cs",
+              "RelativeDocumentMoniker": "AppBlockerConfig\\MainForm.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerConfig\\MainForm.cs [Design]",
+              "RelativeToolTip": "AppBlockerConfig\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:02:36.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerConfig\\MainForm.cs",
+              "RelativeDocumentMoniker": "AppBlockerConfig\\MainForm.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerConfig\\MainForm.cs",
+              "RelativeToolTip": "AppBlockerConfig\\MainForm.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAAALkCAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:40:23.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FtpUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\FtpUploadService.cs",
+              "RelativeDocumentMoniker": "AppBlockerService\\FtpUploadService.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\FtpUploadService.cs",
+              "RelativeToolTip": "AppBlockerService\\FtpUploadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T18:06:16.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerConfig\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "AppBlockerConfig\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerConfig\\MainForm.Designer.cs",
+              "RelativeToolTip": "AppBlockerConfig\\MainForm.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:40:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeviceHealthMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\DeviceHealthMonitor.cs",
+              "RelativeDocumentMoniker": "AppBlockerService\\DeviceHealthMonitor.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\DeviceHealthMonitor.cs",
+              "RelativeToolTip": "AppBlockerService\\DeviceHealthMonitor.cs",
+              "ViewState": "AgIAAMABAAAAAAAAAAAqwM4BAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:33:49.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppBlockerService.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\AppBlockerService.cs",
+              "RelativeDocumentMoniker": "AppBlockerService\\AppBlockerService.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\AppBlockerService.cs [Design]",
+              "RelativeToolTip": "AppBlockerService\\AppBlockerService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:31:50.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\SharedModels\\LogEntry.cs",
+              "RelativeDocumentMoniker": "SharedModels\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\SharedModels\\LogEntry.cs",
+              "RelativeToolTip": "SharedModels\\LogEntry.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:32:32.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeviceHealthModels.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\SharedModels\\DeviceHealthModels.cs",
+              "RelativeDocumentMoniker": "SharedModels\\DeviceHealthModels.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\SharedModels\\DeviceHealthModels.cs",
+              "RelativeToolTip": "SharedModels\\DeviceHealthModels.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:32:11.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerConfig\\Program.cs",
+              "RelativeDocumentMoniker": "AppBlockerConfig\\Program.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerConfig\\Program.cs",
+              "RelativeToolTip": "AppBlockerConfig\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:22:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstalledAppScanner.cs",
+              "DocumentMoniker": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\InstalledAppScanner.cs",
+              "RelativeDocumentMoniker": "AppBlockerService\\InstalledAppScanner.cs",
+              "ToolTip": "C:\\Users\\VR-Workstation\\source\\repos\\AppBlockerService\\AppBlockerService\\InstalledAppScanner.cs",
+              "RelativeToolTip": "AppBlockerService\\InstalledAppScanner.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAiwGYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:31:50.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

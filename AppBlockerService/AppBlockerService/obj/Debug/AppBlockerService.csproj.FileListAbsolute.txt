@@ -1,0 +1,13 @@
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\bin\Debug\AppBlockerService.exe.config
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\bin\Debug\AppBlockerService.exe
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\bin\Debug\AppBlockerService.pdb
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\bin\Debug\SharedModels.dll
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\bin\Debug\SharedModels.pdb
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\obj\Debug\AppBlockerService.csproj.AssemblyReference.cache
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\obj\Debug\AppBlockerService.ProjectInstaller.resources
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\obj\Debug\AppBlockerService.csproj.GenerateResource.cache
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\obj\Debug\AppBlockerService.csproj.CoreCompileInputs.cache
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\obj\Debug\AppBlock.DCBF5A10.Up2Date
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\obj\Debug\AppBlockerService.exe
+C:\Users\VR-Workstation\source\repos\AppBlockerService\AppBlockerService\obj\Debug\AppBlockerService.pdb
