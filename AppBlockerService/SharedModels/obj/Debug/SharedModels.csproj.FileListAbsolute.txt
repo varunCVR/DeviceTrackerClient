@@ -1,9 +1,0 @@
-C:\Users\VR-Workstation\source\repos\AppBlockerService\SharedModels\bin\Debug\SharedModels.dll
-C:\Users\VR-Workstation\source\repos\AppBlockerService\SharedModels\bin\Debug\SharedModels.pdb
-C:\Users\VR-Workstation\source\repos\AppBlockerService\SharedModels\bin\Debug\Newtonsoft.Json.dll
-C:\Users\VR-Workstation\source\repos\AppBlockerService\SharedModels\bin\Debug\Newtonsoft.Json.xml
-C:\Users\VR-Workstation\source\repos\AppBlockerService\SharedModels\obj\Debug\SharedModels.csproj.AssemblyReference.cache
-C:\Users\VR-Workstation\source\repos\AppBlockerService\SharedModels\obj\Debug\SharedModels.csproj.CoreCompileInputs.cache
-C:\Users\VR-Workstation\source\repos\AppBlockerService\SharedModels\obj\Debug\SharedMo.441C3BE9.Up2Date
-C:\Users\VR-Workstation\source\repos\AppBlockerService\SharedModels\obj\Debug\SharedModels.dll
-C:\Users\VR-Workstation\source\repos\AppBlockerService\SharedModels\obj\Debug\SharedModels.pdb

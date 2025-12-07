@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="AppBlockerConfig/AppBlockerConfig.csproj" Id="b8685bcb-9a45-4be8-a9be-ac784ca42a14" />
-  <Project Path="AppBlockerService/AppBlockerService.csproj" Id="9b844bed-257f-4fe7-9c91-abab49346ce9" />
-  <Project Path="SharedModels/SharedModels.csproj" Id="1dd91283-2101-4f51-a71d-e7b698003edc" />
-</Solution>
